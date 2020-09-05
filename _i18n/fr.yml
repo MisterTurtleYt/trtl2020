@@ -37,7 +37,7 @@ dev_activity_issues: Problèmes
 dev_activity_core_commits: Changements
 
 #building apps section
-building_apps_title: Création d'Applications sur 
+building_apps_title: Création d'Applications avec 
 building_apps_text: Le <span class="reg">TurtleCoin</span> dispose de nombreux services et documentations pour ceux qui souhaiteraient utiliser notre API. Voici quelques liens pour vous aider dans votre quête.
 building_apps_api_doc:  <span class="reg">TurtleCoin</span> Documentation de l'API
 building_apps_service_doc: <span class="reg">TurtleCoin</span> Documentation des Services
