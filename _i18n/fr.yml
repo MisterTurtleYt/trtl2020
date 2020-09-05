@@ -1,0 +1,43 @@
+meta:
+  description: Le TurtleCoin est un moyen amusant d'envoyer de l'argent de manière privée à des amis ou des entreprises. Le TurtleCoin est une cryptomonnaie open-source développée par la communauté, facile à minée, mais disposant également d'un portefeuille graphique.
+  title: TurtleCoin.lol - Un Moyen Facile, Rapide et Amusant d'Envoyer de l'Argent à des Amis ou des Entreprises
+
+# welcome section
+turtlecoin_is: Le TurtleCoin</span> est une monnaie électronique <strong>pair-à-pair</strong>, décentralisée et <a href="https://github.com/turtlecoin">Open-Source</a>. Facile à gagner, elle est <strong>complètement privée</strong> et <a href="https://edu.turtlecoin.lol">vous attend</a> dès aujourd'hui !
+get_started: Commençons dès maintenant, en seulement <strong>3 étapes faciles.</strong>
+
+
+# wallet section
+wallet_title: Choisissez un Portefeuille
+wallet_we_support: Nous supportons les portefeuilles <strong>Windows, MacOS, Linux, Android,</strong>et<strong> Web</strong>.
+wallet_long_term_storage: Pour un stockage à long terme, nous vous recommendons d'utiliser un 
+                            <strong><a href="/wallet">Portefeuille Physique</a></strong>.
+
+#say hello section
+say_hello_title: Passez Dire Bonjour
+
+#get in the know section
+get_know_title: Restez Informés
+get_know_text: Toutes les semaines, nous postons sur le 
+                            <strong>
+                                <a href="https://blog.turtlecoin.lol"
+                                    >Blog Officiel du 
+                                    <span class="reg">TurtleCoin</span> </a
+                                ></strong
+                            >
+                            en détaillant ce qui a été accomplis. Que ce soit pour publier des trucs cools que vous avez accomplis, ou bien pour dire bonjour à la communauté, tout le monde est le bienvenue pour contribuer à un article.
+get_know_button: Écrire un article
+
+#blog updates section
+blog_updates_title: Dernières Nouvelles
+
+#dev activity section
+dev_activity_title: Dernières Activités des Dev
+dev_activity_issues: Problèmes
+dev_activity_core_commits: Changements
+
+#building apps section
+building_apps_title: Création d'Applications sur 
+building_apps_text: Le <span class="reg">TurtleCoin</span> dispose de nombreux services et documentations pour ceux qui souhaiteraient utiliser notre API. Voici quelques liens pour vous aider dans votre quête.
+building_apps_api_doc:  <span class="reg">TurtleCoin</span> Documentation de l'API
+building_apps_service_doc: <span class="reg">TurtleCoin</span> Documentation des Services
